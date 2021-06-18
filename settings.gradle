@@ -1,0 +1,2 @@
+rootProject.name = "Ammo Tracker"
+include ':app'
